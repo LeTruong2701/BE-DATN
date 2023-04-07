@@ -1,0 +1,4 @@
+#XAY DUNG WEBSITE QUAN LY CUA HANG THE THAO 
+## TECHNOLOGIES
+Asp.net core 3.1
+Entity Framework 3.1
